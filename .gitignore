@@ -1,0 +1,24 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+**/.DS_Store
+# system data
+# --- Data and Outputs ---
+# Ignore the raw datasets (Titanic train/test CSVs)
+train.csv
+test.csv
+
+# Ignore your generated submission files
+resultfile.csv
+
+# --- Jupyter Notebook Specifics ---
+# Ignore hidden Jupyter checkpoint directories
+.ipynb_checkpoints/
+
+# --- IDE Specifics ---
+# If you use VS Code or PyCharm
+.vscode/
+.idea/
