@@ -8,12 +8,7 @@ __pycache__/
 # system data
 # --- Data and Outputs ---
 # Ignore the raw datasets (Titanic train/test CSVs)
-train.csv
-test.csv
-
-# Ignore your generated submission files
-resultfile.csv
-
+*.csv
 # --- Jupyter Notebook Specifics ---
 # Ignore hidden Jupyter checkpoint directories
 .ipynb_checkpoints/
