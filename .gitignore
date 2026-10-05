@@ -12,7 +12,7 @@ __pycache__/
 # --- Jupyter Notebook Specifics ---
 # Ignore hidden Jupyter checkpoint directories
 .ipynb_checkpoints/
-
+*.md
 # --- IDE Specifics ---
 # If you use VS Code or PyCharm
 .vscode/
